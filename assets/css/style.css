@@ -70,6 +70,14 @@ header {
     border: 2px solid #CCCCCC;
     background-color: white;
 }
+#mainport {
+    width: 1050px;
+    height: 900px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 2px solid #CCCCCC;
+    background-color: white;
+}
 
 #corner {
     float: left;
